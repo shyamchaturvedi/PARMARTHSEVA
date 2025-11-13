@@ -1,0 +1,6 @@
+<svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="48" fill="#FDE68A" stroke="#F97316" stroke-width="4"/>
+    <path d="M50 20 C65 30, 65 50, 50 60 C35 50, 35 30, 50 20 Z" fill="#4ADE80"/>
+    <path d="M30 70 Q 50 50, 70 70" stroke="#0EA5E9" stroke-width="4" fill="none"/>
+    <text x="50" y="85" text-anchor="middle" fill="#F97316" font-size="10" font-weight="bold" font-family="sans-serif">सेवा परमो धर्मः</text>
+</svg>
